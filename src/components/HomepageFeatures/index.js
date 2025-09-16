@@ -12,7 +12,7 @@ const FeatureList = [
         Documentation of the International Library project on console
       </>
     ),
-    link: 'https://github.com/hubble-riwi/LibraryHubble'
+    link: '/docs/tutorial-basics/biblioteca-console/'
   }
 ];
 
